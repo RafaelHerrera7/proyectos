@@ -1,4 +1,4 @@
-from menu import Menu
+from restorant.menu import Menu
 
 class Restaurant:
     def __init__(self):
