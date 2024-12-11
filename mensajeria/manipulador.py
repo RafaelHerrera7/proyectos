@@ -3,9 +3,7 @@ class Manipulador:
     
     def __init__(self):
         self.casilleros = []
-        
-    def __repr__(self):
-        salida = ""
+               
     def agregar_casillero(self, casillero):
         self.casilleros.append(casillero)
     
