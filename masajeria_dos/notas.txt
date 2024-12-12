@@ -1,0 +1,6 @@
+mesajeria
+
+1. los mensajes no pueden tener un largo mayor a 30 caracteres, esto incluye espacios
+2. los mensajes tiene que tener emisor y receptor: envia de ? a ?.
+3. no es necesario validar emisor ni receptor
+
